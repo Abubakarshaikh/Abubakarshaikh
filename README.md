@@ -71,4 +71,4 @@
 [blog]: http://vsCodeHero.com
 [twitter]: https://twitter.com/EssienJasper
 [linkedin]: https://www.linkedin.com/in/jahswill-essien-9b0221168/
-[nightowl]: https://github-readme-stats.vercel.app/api?username=jasperessien2&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
+[nightowl]: https://github-readme-stats.vercel.app/api?username=abubakarshaikh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
