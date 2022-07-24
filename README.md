@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=jahswill-dev.web.app&style=for-the-badge&url=https%3A%2F%2Fjahswill-dev.web.app)](https://jahswill-dev.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abubakrshykh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabubakarshaikh&screen_name=abubakrshykh)
 
-## I'm a Mobile Developer!!
+## I'm a Flutter Developer!!
 
 - 🔭 I just launched my third article: [Drawing Bezier curves and Splines with CustomPaint flutter][article]!
 - 🌱 I’m currently learning solidity, while becoming more badass in flutter 
