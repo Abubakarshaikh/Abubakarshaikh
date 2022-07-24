@@ -14,8 +14,8 @@
 ### Connect with me:
 
 [<img align="left" alt="jahswill-dev.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="EssienJasper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jahswill Essien | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Abubakr Shaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Abubakr Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -69,6 +69,6 @@
 [website]: https://jahswill-dev.web.app/
 [article]: https://jasper-dev.hashnode.dev/drawing-bezier-curves-and-splines-with-custompaint-flutter
 [blog]: http://vsCodeHero.com
-[twitter]: https://twitter.com/EssienJasper
-[linkedin]: https://www.linkedin.com/in/jahswill-essien-9b0221168/
+[twitter]: https://twitter.com/abubakrshykh
+[linkedin]: https://www.linkedin.com/in/shaikhabubakar/
 [nightowl]: https://github-readme-stats.vercel.app/api?username=abubakarshaikh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
