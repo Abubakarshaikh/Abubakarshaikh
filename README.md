@@ -5,8 +5,7 @@
 
 ## I'm a Flutter Developer!!
 
-- 🔭 I just launched my third article: [Drawing Bezier curves and Splines with CustomPaint flutter][article]!
-- 🌱 I’m currently learning solidity, while becoming more badass in flutter 
+- 🌱 I’m currently learning Flutter, while becoming more badass in flutter 
 - 👯 I’m looking to collaborate with other flutter developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read
