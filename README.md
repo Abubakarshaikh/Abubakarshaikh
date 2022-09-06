@@ -1,6 +1,6 @@
 ### Hi there, I'm Abubakar Shaikh 👋 
 
-[![Website](https://img.shields.io/website?label=jahswill-dev.web.app&style=for-the-badge&url=https%3A%2F%2Fjahswill-dev.web.app)](https://jahswill-dev.web.app/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/abubakrshykh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabubakarshaikh&screen_name=abubakrshykh)
 
 ## I'm a Flutter Developer!!
@@ -38,27 +38,9 @@
 
 ---
 
-### Flutter paint challenges
 
-| <img align="left" alt="Flutter Dash Animation" width="270px" height="220px" src="https://github.com/JasperEssien2/dash/blob/master/display/flutter_dash.gif" /> | <img align="center" alt="Sponge bob Animation" width="100px" height="220px" src="https://github.com/JasperEssien2/sponge_bob/blob/master/display/ezgif.com-gif-maker.gif" /> | <img align="right" alt="Face Animation" width="220px" height="220px" src="https://github.com/JasperEssien2/face_animation_widget/blob/master/display/face_animation.gif" /> |
-| ------------- |:-------------:| -----:|
-|<img align="left" alt="Fanciful color wheel" width="220px" height="220px" src="https://github.com/JasperEssien2/paint_challenge/blob/master/Screen%20Recording%202021-11-15%20at%2011.43.15.gif" /> | <img align="center" alt="Speedometer Slider" width="220px" height="220px" src="https://github.com/JasperEssien2/speedometer_slider/blob/master/display/speedometer_slider_display.gif" />  | <img align="right" alt="Graph Widget" width="220px" height="220px" src="https://github.com/JasperEssien2/graph_widget/blob/master/display/graph_widget_display_.gif" /> | 
-| ------------- |:-------------:| -----:|
-| <img align="left" alt="Wave Spinner Widget" width="220px" height="220px" src="https://github.com/JasperEssien2/custom_spinner/blob/master/screenshots/wave_spinner.gif" /> | <img align="center" alt="Water Waves" width="220px" height="220px" src="https://github.com/JasperEssien2/wave_widget/blob/master/waves_gif.gif" />  | |
----
 
-### 📕 Latest Blog Posts
-- [Flutter isolates – everything you need to know](https://blog.codemagic.io/understanding-flutter-isolates/)
-- [Understanding Offsets in Flutter](https://blog.logrocket.com/understanding-offsets-flutter/)
-<!-- HASHNODE:START -->
-- [Pratical Guide: Flutter + Firebase + Flutterfire CLI + CI &lpar;Codemagic&rpar;](https://jasper-dev.hashnode.dev/pratical-guide-flutter-firebase-flutterfire-cli-ci-codemagic)
-- [How to implement GraphQL with Flutter + GraphQL example + CI/CD &lpar;Codemagic&rpar;](https://jasper-dev.hashnode.dev/how-to-implement-graphql-with-flutter-graphql-example-cicd-codemagic)
-- [Drawing Bezier curves and Splines with CustomPaint flutter](https://jasper-dev.hashnode.dev/drawing-bezier-curves-and-splines-with-custompaint-flutter)
-- [Build complex widgets with flutter](https://jasper-dev.hashnode.dev/build-complex-widgets-with-flutter)
-- [Getting started with RenderObjects in Flutter](https://jasper-dev.hashnode.dev/getting-started-with-renderobjects-in-flutter)
-<!-- HASHNODE:END -->
 
----
 
 ## Stats
 
