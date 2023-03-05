@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Flutter, while becoming more badass in flutter 
 - 👯 I’m looking to collaborate with other flutter developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read
 
 ### Connect with me:
