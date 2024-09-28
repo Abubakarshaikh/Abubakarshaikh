@@ -5,9 +5,9 @@
 
 ## I'm a Flutter Developer!!
 
-- 🌱 I’m currently learning Flutter, while becoming more badass in flutter 
-- 👯 I’m looking to collaborate with other flutter developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Flutter while becoming more badass in Flutter. 
+- 👯 I’m looking to collaborate with other Flutter developers.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read
 
 ### Connect with me:
