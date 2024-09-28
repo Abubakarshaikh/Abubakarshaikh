@@ -5,10 +5,10 @@
 
 ## I'm a Flutter Developer!!
 
-- 🌱 I’m currently learning Flutter while becoming more badass in Flutter. 
-- 👯 I’m looking to collaborate with other Flutter developers.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to read
+- 🌱 Constantly leveling up in Flutter while mastering the latest trends in mobile development.
+- 👯 Always open to collaborating with fellow Flutter devs to build impactful and innovative solutions.
+- 📈 2024 Goals: Amplify my contribution to the Open Source community, helping to drive the evolution of Flutter.
+- 💡 Fun fact: I’m a bookworm with a deep love for exploring both code and literature.
 
 ### Connect with me:
 
